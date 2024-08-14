@@ -1,6 +1,6 @@
 # I'm D.
 <p align="center">
-<img width="640" alt="The seaside in Hamamatsu and me" src="https://github.com/user-attachments/assets/6e22ff51-947e-46f9-960f-47b3a6fb8f8d">
+<img height="300" alt="The seaside in Hamamatsu and me" src="https://github.com/user-attachments/assets/6e22ff51-947e-46f9-960f-47b3a6fb8f8d">
 </p>
 
 ## Profile

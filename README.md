@@ -1,6 +1,7 @@
 # I'm D.
-
-<img width="640" alt="The seaside in Hamamatsu and me" align="center" src="https://github.com/user-attachments/assets/6e22ff51-947e-46f9-960f-47b3a6fb8f8d">
+<p align="center">
+<img width="640" alt="The seaside in Hamamatsu and me" src="https://github.com/user-attachments/assets/6e22ff51-947e-46f9-960f-47b3a6fb8f8d">
+</p>
 
 # Profile
 
@@ -14,7 +15,7 @@
   - 🎸 I can play guitar.
   - 🎹 Also a little bit can play piano.
 
-<p align="left">
+<p align="center">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
 	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
@@ -27,7 +28,7 @@
   </picture>
 </p>
 
-<p align="left" >
+<p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
@@ -35,7 +36,7 @@
 	</picture>
 </p>　
 
-<p align="left">
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />

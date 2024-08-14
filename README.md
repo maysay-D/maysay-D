@@ -3,7 +3,7 @@
 <img width="640" alt="The seaside in Hamamatsu and me" src="https://github.com/user-attachments/assets/6e22ff51-947e-46f9-960f-47b3a6fb8f8d">
 </p>
 
-# Profile
+## Profile
 
 - 🏫 I'm a 3rd graduate student at Meisei University's informatics faculty.
 - 💻 I have used MacBook since I was ten years old.
@@ -14,6 +14,8 @@
   - 🎼 Especially like folk music.
   - 🎸 I can play guitar.
   - 🎹 Also a little bit can play piano.
+
+## Statics
 
 <p align="center">
   <picture>

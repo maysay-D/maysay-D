@@ -5,7 +5,7 @@
 
 ## Profile
 
-- 🏫 I'm a 3rd graduate student at Meisei University's informatics faculty.
+- 🏫 I'm a 3rd undergraduate student at Meisei University's informatics faculty.
 - 💻 I have used MacBook since I was ten years old.
 - 👨‍💻 I like to participate in competitive programming.
   - 🔰 Still a beginner though.

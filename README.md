@@ -8,7 +8,7 @@
 - 🏫 I'm a 3rd undergraduate student at Meisei University's informatics major.
 - 💻 I have used MacBook since I was ten years old.
 - 👨‍💻 I like to participate in competitive programming.
-  - 🔰 Still a beginner though.
+  - [![maysay_D](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fmaysay_D)](https://atcoder.jp/users/maysay_D)
 - 😻 I love cats.
 - 🎵 Also, I love music.
   - 🎼 Especially like folk music.
